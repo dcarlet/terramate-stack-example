@@ -11,7 +11,7 @@ module "azure_postgres_flex" {
   project_keyvault       = "AZ_placeholder_KV"
   service_name           = "terragrunt-pilot"
   sku                    = "GP_Standard_D2s_v3"
-  source                 = "./azure-postgres-flex"
+  source                 = "./terramate-azure-postgres-flex"
   storage_mb             = 32768
   tags = {
     CREATED_BY   = "TERRAFORM"
