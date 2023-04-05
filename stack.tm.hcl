@@ -1,5 +1,5 @@
 import {
-  source = "azure-postgres-flex/azure-postgres-flex.tm.hcl"
+  source = "terramate-azure-postgres-flex/azure-postgres-flex.tm.hcl"
 }
 
 stack {
