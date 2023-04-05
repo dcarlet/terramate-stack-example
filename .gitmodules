@@ -1,0 +1,3 @@
+[submodule "terramate-azure-postgres-flex"]
+	path = terramate-azure-postgres-flex
+	url = https://github.com/dcarlet/terramate-azure-postgres-flex.git
